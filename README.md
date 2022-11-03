@@ -1,1 +1,1 @@
-# DBMS
+# dbms_practicals
